@@ -1,0 +1,23 @@
+html {font-family: Arial, serif; background-color: #f0c375;}
+header {text-indent: 10px; font-size: 50px; background-color: tan; padding: 20px; color: black; text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;
+
+}
+nav {color: #6db5e5; text-indent: 2px;  text-align: center; float:left; padding: 5px; width:100px; height: 800px; background-color: ghostwhite;}
+a:link {color: ##6db5e5; text-decoration: none;}
+a:visited {color: slategrey; text-decoration: none;}
+a:hover {color: ##6db5e5;}
+a:active {color: rgb(50, 52, 53); text-decoration: none;}
+main{margin-left:100px; width: 80%; height:651px; padding-left: 20px; padding-right: 10px;}
+.form{padding-left: 50%;}
+p {color: white; padding-left: 15px; margin-top: 0px;}
+p2 {color: rgb(0, 0, 0); padding-left: 15px; margin-top: 0px;}
+h1 {font-size: 30px; color: ##6db5e5; padding-left: 50%; padding-right: 10px; margin-bottom: 0px; text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;}
+h2 {font-size: 25px; color: ##6db5e5; text-align: center; padding: 5px; margin-bottom: 0px; text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;}
+hr {text-align: center; width: 75%;}
+ul {margin-top: 5px; color: ghostwhite;}
+li {padding: 5px;}
+footer {text-align: center; color: white; clear: both; width: 100%; height:50px;}
+.columnR {color: midnightblue; float: right; height: 800px; width: 15%; background-color: ghostwhite; padding: 10px; text-align: center;}
+.headerImage {background: url(header.jpg); height: 100px; position: relative; background-size: cover;}
+.peng1 {float: right; height: 50%; width: 50%; margin: 15px 10px; border-style: ridge; border-width: 5px; border-color: #ffd900;}
+.peng2 {float: right; padding-right: 50px; height: 100%; width: 5%}
